@@ -541,7 +541,7 @@
                 "signed_out": "You were signed out!",
                 "token_reveal": "{{name}}'s Token",
                 "onboarding": {
-                    "welcome": "Welcome to",
+                    "welcome": "Welcome to Kimani Life!",
                     "pick": "Pick a username that you want people to be able to find you by, this can be changed later in settings."
                 },
                 "prompt": {
@@ -784,6 +784,13 @@
             "discover_desc": "Find a community based on your hobbies or interests.",
             "group": "Create a group",
             "group_desc": "Invite all of your friends, some cool bots, and throw a big party."
+        },
+        "home2": {
+            "amb-join": "Join as Ambassador",
+            "spon-join": "Become a Sponsor",
+            "ven-join": "Apply as a Preferred Service Provider",
+            "foun-join": "Become a Founding Member",
+            "amb-desc": "Lorem ipsum dolor kimet."
         }
     },
     "quantities": {
